@@ -1,0 +1,606 @@
+=======================================
+|#####################################|
+|###########              ############|
+|###########    TEST 1    ############|
+|###########              ############|
+|#####################################|
+=======================================
+
+=======================================
+|#####################################|
+|##############  FCFS  ###############|
+=======================================
+IOThread1 Elapsed Time: 47 milliseconds
+
+
+IOThread2 Elapsed Time: 62 milliseconds
+
+
+IOThread3 Elapsed Time: 63 milliseconds
+
+
+CPUThread1 Elapsed Time: 16 milliseconds
+
+
+CPUThread2 Elapsed Time: 15 milliseconds
+
+
+CPUThread3 Elapsed Time: 16 milliseconds
+
+
+interThread1 Elapsed Time: 31 milliseconds
+
+
+interThread2 Elapsed Time: 63 milliseconds
+
+
+interThread3 Elapsed Time: 78 milliseconds
+
+
+=======================================
+|#####################################|
+|########### SHORTEST JOB  ###########|
+=======================================
+CPUThread3 Elapsed Time: 16 milliseconds
+
+
+CPUThread2 Elapsed Time: 15 milliseconds
+
+
+CPUThread1 Elapsed Time: 16 milliseconds
+
+
+interThread1 Elapsed Time: 47 milliseconds
+
+
+interThread3 Elapsed Time: 78 milliseconds
+
+
+interThread2 Elapsed Time: 78 milliseconds
+
+
+IOThread2 Elapsed Time: 63 milliseconds
+
+
+IOThread3 Elapsed Time: 94 milliseconds
+
+
+IOThread1 Elapsed Time: 93 milliseconds
+
+
+=======================================
+|#####################################|
+|########### ROUND ROBIN  ############|
+=======================================
+CPUThread3 Elapsed Time: 47 milliseconds
+
+
+CPUThread1 Elapsed Time: 32 milliseconds
+
+
+CPUThread2 Elapsed Time: 31 milliseconds
+
+
+IOThread1 Elapsed Time: 266 milliseconds
+
+
+interThread3 Elapsed Time: 282 milliseconds
+
+
+IOThread2 Elapsed Time: 282 milliseconds
+
+
+IOThread3 Elapsed Time: 360 milliseconds
+
+
+interThread1 Elapsed Time: 407 milliseconds
+
+
+interThread2 Elapsed Time: 453 milliseconds
+
+
+=======================================
+|#####################################|
+|###########              ############|
+|###########    TEST 2    ############|
+|###########              ############|
+|#####################################|
+=======================================
+
+=======================================
+|#####################################|
+|##############  FCFS  ###############|
+=======================================
+IOThread1 Elapsed Time: 110 milliseconds
+
+
+IOThread2 Elapsed Time: 125 milliseconds
+
+
+IOThread3 Elapsed Time: 78 milliseconds
+
+
+CPUThread1 Elapsed Time: 31 milliseconds
+
+
+CPUThread2 Elapsed Time: 16 milliseconds
+
+
+CPUThread3 Elapsed Time: 16 milliseconds
+
+
+interThread1 Elapsed Time: 31 milliseconds
+
+
+interThread2 Elapsed Time: 47 milliseconds
+
+
+interThread3 Elapsed Time: 63 milliseconds
+
+
+=======================================
+|#####################################|
+|########### SHORTEST JOB  ###########|
+=======================================
+CPUThread3 Elapsed Time: 15 milliseconds
+
+
+CPUThread2 Elapsed Time: 32 milliseconds
+
+
+CPUThread1 Elapsed Time: 15 milliseconds
+
+
+interThread1 Elapsed Time: 32 milliseconds
+
+
+interThread3 Elapsed Time: 46 milliseconds
+
+
+interThread2 Elapsed Time: 63 milliseconds
+
+
+IOThread2 Elapsed Time: 62 milliseconds
+
+
+IOThread3 Elapsed Time: 78 milliseconds
+
+
+IOThread1 Elapsed Time: 94 milliseconds
+
+
+=======================================
+|#####################################|
+|########### ROUND ROBIN  ############|
+=======================================
+CPUThread1 Elapsed Time: 31 milliseconds
+
+
+CPUThread3 Elapsed Time: 31 milliseconds
+
+
+CPUThread2 Elapsed Time: 31 milliseconds
+
+
+IOThread1 Elapsed Time: 187 milliseconds
+
+
+IOThread3 Elapsed Time: 343 milliseconds
+
+
+IOThread2 Elapsed Time: 343 milliseconds
+
+
+interThread2 Elapsed Time: 484 milliseconds
+
+
+interThread3 Elapsed Time: 484 milliseconds
+
+
+interThread1 Elapsed Time: 515 milliseconds
+
+
+=======================================
+|#####################################|
+|###########              ############|
+|###########    TEST 3    ############|
+|###########              ############|
+|#####################################|
+=======================================
+
+=======================================
+|#####################################|
+|##############  FCFS  ###############|
+=======================================
+IOThread1 Elapsed Time: 78 milliseconds
+
+
+IOThread2 Elapsed Time: 79 milliseconds
+
+
+IOThread3 Elapsed Time: 63 milliseconds
+
+
+CPUThread1 Elapsed Time: 15 milliseconds
+
+
+CPUThread2 Elapsed Time: 32 milliseconds
+
+
+CPUThread3 Elapsed Time: 15 milliseconds
+
+
+interThread1 Elapsed Time: 31 milliseconds
+
+
+interThread2 Elapsed Time: 47 milliseconds
+
+
+interThread3 Elapsed Time: 94 milliseconds
+
+
+=======================================
+|#####################################|
+|########### SHORTEST JOB  ###########|
+=======================================
+CPUThread3 Elapsed Time: 16 milliseconds
+
+
+CPUThread2 Elapsed Time: 15 milliseconds
+
+
+CPUThread1 Elapsed Time: 16 milliseconds
+
+
+interThread1 Elapsed Time: 31 milliseconds
+
+
+interThread3 Elapsed Time: 63 milliseconds
+
+
+interThread2 Elapsed Time: 46 milliseconds
+
+
+IOThread2 Elapsed Time: 79 milliseconds
+
+
+IOThread3 Elapsed Time: 78 milliseconds
+
+
+IOThread1 Elapsed Time: 78 milliseconds
+
+
+=======================================
+|#####################################|
+|########### ROUND ROBIN  ############|
+=======================================
+CPUThread2 Elapsed Time: 32 milliseconds
+
+
+CPUThread1 Elapsed Time: 31 milliseconds
+
+
+CPUThread3 Elapsed Time: 47 milliseconds
+
+
+IOThread3 Elapsed Time: 203 milliseconds
+
+
+IOThread1 Elapsed Time: 312 milliseconds
+
+
+IOThread2 Elapsed Time: 359 milliseconds
+
+
+interThread1 Elapsed Time: 375 milliseconds
+
+
+interThread3 Elapsed Time: 406 milliseconds
+
+
+interThread2 Elapsed Time: 437 milliseconds
+
+
+=======================================
+|#####################################|
+|###########              ############|
+|###########    TEST 4    ############|
+|###########              ############|
+|#####################################|
+=======================================
+
+=======================================
+|#####################################|
+|##############  FCFS  ###############|
+=======================================
+IOThread1 Elapsed Time: 47 milliseconds
+
+
+IOThread2 Elapsed Time: 62 milliseconds
+
+
+IOThread3 Elapsed Time: 47 milliseconds
+
+
+CPUThread1 Elapsed Time: 16 milliseconds
+
+
+CPUThread2 Elapsed Time: 16 milliseconds
+
+
+CPUThread3 Elapsed Time: 16 milliseconds
+
+
+interThread1 Elapsed Time: 62 milliseconds
+
+
+interThread2 Elapsed Time: 63 milliseconds
+
+
+interThread3 Elapsed Time: 62 milliseconds
+
+
+=======================================
+|#####################################|
+|########### SHORTEST JOB  ###########|
+=======================================
+CPUThread3 Elapsed Time: 16 milliseconds
+
+
+CPUThread2 Elapsed Time: 15 milliseconds
+
+
+CPUThread1 Elapsed Time: 16 milliseconds
+
+
+interThread1 Elapsed Time: 31 milliseconds
+
+
+interThread3 Elapsed Time: 47 milliseconds
+
+
+interThread2 Elapsed Time: 47 milliseconds
+
+
+IOThread2 Elapsed Time: 47 milliseconds
+
+
+IOThread3 Elapsed Time: 78 milliseconds
+
+
+IOThread1 Elapsed Time: 78 milliseconds
+
+
+=======================================
+|#####################################|
+|########### ROUND ROBIN  ############|
+=======================================
+CPUThread2 Elapsed Time: 47 milliseconds
+
+
+CPUThread3 Elapsed Time: 47 milliseconds
+
+
+CPUThread1 Elapsed Time: 32 milliseconds
+
+
+IOThread2 Elapsed Time: 265 milliseconds
+
+
+IOThread3 Elapsed Time: 296 milliseconds
+
+
+IOThread1 Elapsed Time: 312 milliseconds
+
+
+interThread3 Elapsed Time: 438 milliseconds
+
+
+interThread1 Elapsed Time: 438 milliseconds
+
+
+interThread2 Elapsed Time: 485 milliseconds
+
+
+=======================================
+|#####################################|
+|###########              ############|
+|###########    TEST 5    ############|
+|###########              ############|
+|#####################################|
+=======================================
+
+=======================================
+|#####################################|
+|##############  FCFS  ###############|
+=======================================
+IOThread1 Elapsed Time: 78 milliseconds
+
+
+IOThread2 Elapsed Time: 78 milliseconds
+
+
+IOThread3 Elapsed Time: 63 milliseconds
+
+
+CPUThread1 Elapsed Time: 15 milliseconds
+
+
+CPUThread2 Elapsed Time: 16 milliseconds
+
+
+CPUThread3 Elapsed Time: 15 milliseconds
+
+
+interThread1 Elapsed Time: 32 milliseconds
+
+
+interThread2 Elapsed Time: 62 milliseconds
+
+
+interThread3 Elapsed Time: 47 milliseconds
+
+
+=======================================
+|#####################################|
+|########### SHORTEST JOB  ###########|
+=======================================
+CPUThread3 Elapsed Time: 15 milliseconds
+
+
+CPUThread2 Elapsed Time: 16 milliseconds
+
+
+CPUThread1 Elapsed Time: 15 milliseconds
+
+
+interThread1 Elapsed Time: 32 milliseconds
+
+
+interThread3 Elapsed Time: 47 milliseconds
+
+
+interThread2 Elapsed Time: 63 milliseconds
+
+
+IOThread2 Elapsed Time: 78 milliseconds
+
+
+IOThread3 Elapsed Time: 78 milliseconds
+
+
+IOThread1 Elapsed Time: 94 milliseconds
+
+
+=======================================
+|#####################################|
+|########### ROUND ROBIN  ############|
+=======================================
+CPUThread1 Elapsed Time: 31 milliseconds
+
+
+CPUThread3 Elapsed Time: 46 milliseconds
+
+
+CPUThread2 Elapsed Time: 32 milliseconds
+
+
+IOThread2 Elapsed Time: 266 milliseconds
+
+
+interThread1 Elapsed Time: 313 milliseconds
+
+
+IOThread1 Elapsed Time: 313 milliseconds
+
+
+IOThread3 Elapsed Time: 375 milliseconds
+
+
+interThread3 Elapsed Time: 422 milliseconds
+
+
+interThread2 Elapsed Time: 469 milliseconds
+
+
+=======================================
+|#####################################|
+|###########              ############|
+|###########    TEST 6    ############|
+|###########              ############|
+|#####################################|
+=======================================
+
+=======================================
+|#####################################|
+|##############  FCFS  ###############|
+=======================================
+IOThread1 Elapsed Time: 110 milliseconds
+
+
+IOThread2 Elapsed Time: 93 milliseconds
+
+
+IOThread3 Elapsed Time: 94 milliseconds
+
+
+CPUThread1 Elapsed Time: 32 milliseconds
+
+
+CPUThread2 Elapsed Time: 15 milliseconds
+
+
+CPUThread3 Elapsed Time: 16 milliseconds
+
+
+interThread1 Elapsed Time: 31 milliseconds
+
+
+interThread2 Elapsed Time: 63 milliseconds
+
+
+interThread3 Elapsed Time: 62 milliseconds
+
+
+=======================================
+|#####################################|
+|########### SHORTEST JOB  ###########|
+=======================================
+CPUThread3 Elapsed Time: 16 milliseconds
+
+
+CPUThread2 Elapsed Time: 15 milliseconds
+
+
+CPUThread1 Elapsed Time: 15 milliseconds
+
+
+interThread1 Elapsed Time: 32 milliseconds
+
+
+interThread3 Elapsed Time: 62 milliseconds
+
+
+interThread2 Elapsed Time: 63 milliseconds
+
+
+IOThread2 Elapsed Time: 93 milliseconds
+
+
+IOThread3 Elapsed Time: 63 milliseconds
+
+
+IOThread1 Elapsed Time: 125 milliseconds
+
+
+=======================================
+|#####################################|
+|########### ROUND ROBIN  ############|
+=======================================
+CPUThread3 Elapsed Time: 31 milliseconds
+
+
+CPUThread1 Elapsed Time: 16 milliseconds
+
+
+CPUThread2 Elapsed Time: 46 milliseconds
+
+
+IOThread2 Elapsed Time: 391 milliseconds
+
+
+IOThread1 Elapsed Time: 391 milliseconds
+
+
+IOThread3 Elapsed Time: 406 milliseconds
+
+
+interThread3 Elapsed Time: 484 milliseconds
+
+
+interThread2 Elapsed Time: 531 milliseconds
+
+
+interThread1 Elapsed Time: 547 milliseconds
+
+
